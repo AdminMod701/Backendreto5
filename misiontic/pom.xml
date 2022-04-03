@@ -11,7 +11,7 @@
 	<groupId>com.mintic</groupId>
 	<artifactId>ciclo4r3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ciclo4r2</name>
+	<name>SENAVII</name>
 	<description>Proyecto backend para el reto 2 del ciclo 4</description>
 	<properties>
 		<java.version>11</java.version>
